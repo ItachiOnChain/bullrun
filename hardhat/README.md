@@ -16,3 +16,4 @@ weth contract : https://testnet.aiascan.com/address/0x2dA1B90f290bf5eac7687087ef
 router contract : https://testnet.aiascan.com/address/0x190299E4F7820726fB9e4446A7706fD188324A3F
 tokenA : https://testnet.aiascan.com/token/0x120e86D413E248039956AA208d99F302Fa3bF05c
 tokenB : https://testnet.aiascan.com/token/0x551b771b60BB047041563d935E3e8E43D8EF17F1
+pair address: https://testnet.aiascan.com/address/0xf4316655C537aEece9410cBA61750b41Ce17E54f
